@@ -1,0 +1,10 @@
+VIAL_ENABLE = yes
+VIA_ENABLE = yes
+LTO_ENABLE = yes
+VIAL_INSECURE = yes
+RGB_MATRIX_ENABLE = no
+VIALRGB_ENABLE = no
+BACKLIGHT_ENABLE = no
+
+# Not enough USB endpoints
+CONSOLE_ENABLE = no
